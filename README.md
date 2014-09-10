@@ -4,7 +4,7 @@ Docker Go Present is a Docker base image that makes it easy to run and share you
 
 ## Usage
 
-* Create a Dockerfile with the following contents:
+* Create a Dockerfile in your presentation directory with the following contents:
 
 ```
 FROM rochacon/go-present
